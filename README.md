@@ -66,7 +66,7 @@ List of external Discord Rich Presences for games/programs and etc...
 - [atom-discord](https://github.com/HelloWorld017/atom-discord) - Discord Rich Presence for [Atom](https://atom.io/)
 - [vimdiscord](https://github.com/vbe0201/vimdiscord) - [Vim](https://www.vim.org/) plugin adds Discord RPC to [Vim](https://www.vim.org/)
 - [presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for [Neovim](https://neovim.io)
-- [coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - An awesome and fully customizable coc-extension to get Discord Rich Presence integration with [NeoVim](https://neovim.io/) and [Vim](https://www.vim.org/).
+- [coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - An awesome and fully customizable coc-extension to get Discord Rich Presence integration with [NeoVim](https://neovim.io/) and [Vim](https://www.vim.org/)
 - [Elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence for [Emacs](https://www.gnu.org/software/emacs/)
 - [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence
 - [Unity Editor Rich Presence](https://github.com/MarshMello0/Editor-Rich-Presence) - Discord Rich Presence for the [Unity](https://unity.com) editor
