@@ -52,7 +52,7 @@ List of external Discord Rich Presences for games/programs and etc...
 
 
 ## Media Editors
-- [Adobe Discord Rich Presence](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Rich Presence for Discord to display what you're currently doing in most of adobe's applications (Photoshop, Premiere Pro and etc)
+- [Adobe Discord Rich Presence](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Rich Presence for Discord to display what you're currently doing in most of adobe's applications 
 - [ResolveRPC](https://github.com/shadoweG/ResolveRPC) - Simple RPC Client for [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) written in Java
 
 
