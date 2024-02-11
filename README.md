@@ -20,7 +20,7 @@ List of external Discord Rich Presences for games/programs and etc...
 ## Uncategorized
 - [PreMid](https://premid.app/) - Shows what you're doing on the web. Youtube (+music), Gartic Phone, Netflix, Crunchyroll and [much more](https://premid.app/store)
 - [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence for Android. Custom, App Detection, Media, even Console
-- [show-all-activities](https://github.com/Juby210/show-all-activities) - Powercord plugin that shows every status enabled. [BetterDiscord port included](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities). 
+- [show-all-activities](https://github.com/Juby210/show-all-activities) - Powercord plugin that shows every status enabled. [BetterDiscord port included](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities)
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord
 - [treecord](https://github.com/cykreet/treecord) - Discord teamtrees.org rich presence - displays recent donations with names, amount of trees and corresponding badge
 - [qBittorrent Rich Presence](https://github.com/LockBlock-dev/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
