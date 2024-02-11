@@ -28,7 +28,7 @@ List of external Discord Rich Presences for games/programs and etc...
 ## Custom
 - [AutoStartRichPresence](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence) - [BetterDiscord](https://betterdiscord.app/) plugin with autostart
 - [Custom RPC](https://github.com/E-boi/custom-rpc) - [Powercord](https://powercord.dev/) plugin with autostart
-- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons! (I guess it is)
+- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons! 
 - [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Good RPC manager
 - [Nexzt](https://github.com/DznDani/Nexzt) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
 
