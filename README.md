@@ -22,21 +22,21 @@ List of external Discord Rich Presences for games/programs and etc...
 - [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence for Android. Custom, App Detection, Media, even Console
 - [show-all-activities](https://github.com/Juby210/show-all-activities) - Powercord plugin that shows every status enabled. [BetterDiscord port included](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities). 
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord
-- [treecord](https://github.com/cykreet/treecord) - Discord teamtrees.org rich presence - displays recent donations with names, amount of trees and corresponding badge.
+- [treecord](https://github.com/cykreet/treecord) - Discord teamtrees.org rich presence - displays recent donations with names, amount of trees and corresponding badge
 - [qBittorrent Rich Presence](https://github.com/LockBlock-dev/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
 
 ## Custom
 - [AutoStartRichPresence](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence) - [BetterDiscord](https://betterdiscord.app/) plugin with autostart
 - [Custom RPC](https://github.com/E-boi/custom-rpc) - [Powercord](https://powercord.dev/) plugin with autostart
-- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons! 
+- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons
 - [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Good RPC manager
-- [Nexzt](https://github.com/DznDani/Nexzt) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
+- [Nexzt](https://github.com/DznDani/Nexzt) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want
 
 ## Music
 - [Last.fm Discord Integrator](https://github.com/tangenx/lfdi) - Flutter app, that transfers Last.FM status to your Discord profile (It can be called Universal Music RPC bundle)
 - [AIMP Discord Presence](https://github.com/Exle/AIMP-Discord-Presence) - Plugin for desktop music player [AIMP](https://www.aimp.ru)
 - [Discord Rich Presence Winamp plugin](https://github.com/clandrew/wdrp) - plugin for old and friendly Winamp
-- [audacious-plugin-rpc](https://github.com/darktohka/audacious-plugin-rpc) - Discord Rich Presence plugin for the [Audacious](https://audacious-media-player.org/) music player!
+- [audacious-plugin-rpc](https://github.com/darktohka/audacious-plugin-rpc) - Discord Rich Presence plugin for the [Audacious](https://audacious-media-player.org/) music player
 - [VK Music RPC for Discord](https://github.com/DaveFeed/VK-Music-RPC-for-Discord) - VK.com Music RPC creator with music name and author
 - [yandexmusicrpc](https://github.com/schwarzalexey/yandexmusicrpc) - Yandex Music Discord RPC based on Yandex
 - [apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - Discord Rich Presence Client for the macOS Apple Music app and iTunes
@@ -47,8 +47,8 @@ List of external Discord Rich Presences for games/programs and etc...
 
 ## Media
 - [Discrakt](https://github.com/afonsojramos/discrakt) - Easy to Use [Trakt](https://trakt.tv/) Discord Rich Presence. (It can be called Universal Media RPC bundle)
-- [mpv-discord](https://github.com/tnychn/mpv-discord) - A cross-platform Discord Rich Presence integration for [mpv](https://mpv.io/) with no external dependencies.
-- [Plex-Discord-RPC](https://github.com/barrettotte/Plex-Discord-RPC) - Use Discord RPC to display local [Plex](https://www.plex.tv/) session data.
+- [mpv-discord](https://github.com/tnychn/mpv-discord) - A cross-platform Discord Rich Presence integration for [mpv](https://mpv.io/) with no external dependencies
+- [Plex-Discord-RPC](https://github.com/barrettotte/Plex-Discord-RPC) - Use Discord RPC to display local [Plex](https://www.plex.tv/) session data
 
 
 ## Media Editors
@@ -68,10 +68,10 @@ List of external Discord Rich Presences for games/programs and etc...
 - [presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for [Neovim](https://neovim.io)
 - [coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - An awesome and fully customizable coc-extension to get Discord Rich Presence integration with [NeoVim](https://neovim.io/) and [Vim](https://www.vim.org/).
 - [Elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence for [Emacs](https://www.gnu.org/software/emacs/)
-- [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence. 
+- [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence
 - [Unity Editor Rich Presence](https://github.com/MarshMello0/Editor-Rich-Presence) - Discord Rich Presence for the [Unity](https://unity.com) editor
 - [Discord Arduino Presence](https://github.com/Yeikzy/discord-arduino) - Shows what you are editing in Arduino IDE
-- [RPFX](https://github.com/PKBeam/RPFX) - **RPFX** is a Discord **R**ich **P**resence client **f**or **X**code that lets you share what you're programming on your Discord status.
+- [RPFX](https://github.com/PKBeam/RPFX) - **RPFX** is a Discord **R**ich **P**resence client **f**or **X**code that lets you share what you're programming on your Discord status
 
 ## Writing/Design
 - [DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365). Word/PowerPoint/Excel/Outlook
